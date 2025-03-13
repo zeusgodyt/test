@@ -398,7 +398,7 @@
     "unist-util-remove": "^4.0.0",
     "unist-util-visit-parents": "6.0.1",
     "Sidhant_test": "1.0.01",
-    "dt-adoptionoverview-extension": 0.0.0.1,
+    "dt-adoptionoverview-extension": "0.0.0.1",
     "vitest": "^3.0.7",
     "website-scraper": "^5.3.1"
   },
